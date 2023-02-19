@@ -11,3 +11,6 @@
 原石购买抽卡次数！
 摩拉 不知道干什么！
 
+### 新增星际战甲玩具插件
+国际服APi原址：https://github.com/WsureWarframe/warframe-info-api
+
